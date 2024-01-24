@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GaneshReddy-7
-- 🌱 I’m currently learning Git and Github
+- 🌱 I’m currently learning dsa with python
 - 📫 How to reach me -my email address saiganeshreddy371@gmail.com
+- And I uploaded my first mysql project(Trip Planner Application) and created a readme on Github and I will learn and try to do things better 
 
 
 <!---
